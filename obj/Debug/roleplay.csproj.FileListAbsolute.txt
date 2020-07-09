@@ -1,0 +1,20 @@
+E:\alt v server\neuer\server\resources\roleplay\server\roleplay.deps.json
+E:\alt v server\neuer\server\resources\roleplay\server\roleplay.dll
+E:\alt v server\neuer\server\resources\roleplay\server\roleplay.pdb
+E:\alt v server\neuer\server mein\resources\roleplay\server\roleplay.deps.json
+E:\alt v server\neuer\server mein\resources\roleplay\server\roleplay.dll
+E:\alt v server\neuer\server mein\resources\roleplay\server\roleplay.pdb
+E:\alt v server\neuer\sol\roleplay\obj\Debug\roleplay.AssemblyInfoInputs.cache
+E:\alt v server\neuer\sol\roleplay\obj\Debug\roleplay.AssemblyInfo.cs
+E:\alt v server\neuer\sol\roleplay\obj\Debug\roleplay.dll
+E:\alt v server\neuer\sol\roleplay\obj\Debug\roleplay.pdb
+E:\alt v server\neuer\sol\roleplay\obj\Debug\roleplay.csproj.CoreCompileInputs.cache
+C:\Users\ol\Desktop\server\eigen\server mein\resources\roleplay\server\roleplay.deps.json
+C:\Users\ol\Desktop\server\eigen\server mein\resources\roleplay\server\roleplay.dll
+C:\Users\ol\Desktop\server\eigen\server mein\resources\roleplay\server\roleplay.pdb
+C:\Users\ol\Desktop\server\eigen\sol\obj\Debug\roleplay.csproj.CoreCompileInputs.cache
+C:\Users\ol\Desktop\server\eigen\sol\obj\Debug\roleplay.AssemblyInfoInputs.cache
+C:\Users\ol\Desktop\server\eigen\sol\obj\Debug\roleplay.AssemblyInfo.cs
+C:\Users\ol\Desktop\server\eigen\sol\obj\Debug\roleplay.csproj.CopyComplete
+C:\Users\ol\Desktop\server\eigen\sol\obj\Debug\roleplay.dll
+C:\Users\ol\Desktop\server\eigen\sol\obj\Debug\roleplay.pdb
