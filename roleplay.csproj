@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <GenerateRuntimeConfigurationFiles>false</GenerateRuntimeConfigurationFiles>
+    <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <OutputPath>C:\Users\ol\Desktop\server\eigen\server mein\resources\roleplay\server\</OutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AltV.Net" Version="1.31.1" />
+    <PackageReference Include="AltV.Net.Async" Version="1.31.1" />
+    <PackageReference Include="AltV.Net.Mock" Version="1.15.0" />
+    <PackageReference Include="MySql.Data" Version="8.0.20" />
+  </ItemGroup>
+
+</Project>
